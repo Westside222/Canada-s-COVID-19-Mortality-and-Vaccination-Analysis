@@ -1,5 +1,11 @@
---Canada's COVID-19 Mortality and Vaccination Analysis 2023
---Jianwei Luo
+/*
+Canada's COVID-19 Mortality and Vaccination Analysis 2023
+
+Jianwei Luo
+
+Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+
+*/
 
 
 --Check all the data
