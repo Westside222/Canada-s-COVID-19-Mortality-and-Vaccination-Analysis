@@ -1,4 +1,7 @@
---Jianwei Luo Canada's COVID-19 Mortality and Vaccination Analysis
+--Canada's COVID-19 Mortality and Vaccination Analysis 2023
+--Jianwei Luo
+
+
 --Check all the data
 
 Select *
