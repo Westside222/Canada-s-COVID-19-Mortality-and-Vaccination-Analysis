@@ -1,4 +1,4 @@
-
+--Jianwei Luo Canada's COVID-19 Mortality and Vaccination Analysis
 --Check all the data
 
 Select *
